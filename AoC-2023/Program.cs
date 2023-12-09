@@ -1,7 +1,7 @@
-﻿using AoC_2023.Day_07;
+﻿using AoC_2023.Day_08;
 
 public class Program {
   public static void Main() {
-    AoC_2023_Day_07.Test();
+    AoC_2023_Day_08.Test();
   }
 }
